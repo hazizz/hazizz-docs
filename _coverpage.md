@@ -1,6 +1,7 @@
 ![logo](./img/icon.png)
 
-# Házizz tudástár & fejlesztői útmutatók
+# Házizz felhasználói tudástár
 
 [Weboldal](https://hazizz.hu)
+[Fejlesztői](/dev/)
 [Kezdés](#házizz-tudástár)

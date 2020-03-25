@@ -1,1 +1,0 @@
-# Fejlesztői dokumentáció

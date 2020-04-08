@@ -6,9 +6,7 @@ A projekt technikai szempontból két féle komponensből tevődik össze:
 
 ## Platform
 
-A platform használatához ezen a weboldalon találhatóak megfelelő dokumentációk és ajánlás jellegű tartalmak. 
-Az api dokumentáció elérhető a [POSTMAN](https://documenter.getpostman.com/view/5139955/S11HueZd?version=latest) weboldalon.
-
+A platform használatához ezen a weboldalon található a dokumentációk, standardek, és az ajánlott irányelvek. 
 [Tovább](/dev/platform)
 
 ## Kliensek

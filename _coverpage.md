@@ -2,5 +2,5 @@
 
 # Házizz felhasználói tudástár
 
-[Fejlesztői](/dev/)
+[Fejlesztői](https://dev.hazizz.hu)
 [Weboldal](https://hazizz.hu)

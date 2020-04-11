@@ -1,9 +1,3 @@
 # Házizz tudástár
 
-# Hibajelentés
-
-> Hibajelentés
-
-# Feliratkozás
-
-> Feliratkozás
+> A Tudástárban az alkalmazással kapcsolatos leggyakoribb kérdések találhatóak meg.

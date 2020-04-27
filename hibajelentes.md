@@ -1,6 +1,7 @@
 # Hibajelentés
 
-[![Házizz Android Applikáció - Hibajelentés](https://i.ibb.co/PGKyy0f/thumbnail.jpg)](https://youtu.be/UAelyz5vevU "Házizz Android Applikáció - Hibajelentés")
+<iframe width="640" height="600" src="https://www.youtube.com/embed/UAelyz5vevU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 A hibajelentés elérhető a 
 
 * "beállítások" menü
